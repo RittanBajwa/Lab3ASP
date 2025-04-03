@@ -1,0 +1,694 @@
+{
+  "Version": 1,
+  "Hash": "+x7rjSYFBX4Ru1VUjR4AuMdGiD82SV1dwoHeH3Cj9Mw=",
+  "Source": "HelloApp",
+  "BasePath": "_content/HelloApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\compressed\\3164czulrl-8hprvg8dgf.gz",
+      "SourceId": "HelloApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/HelloApp",
+      "RelativePath": "HelloApp#[.{fingerprint=8hprvg8dgf}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HelloApp.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "udk3an5ate",
+      "Integrity": "DqB5KXj9mvKN2qdnfwkn30LgHutvvhzRGr2uRG+qlFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HelloApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\compressed\\ikjjvj5zsx-8hprvg8dgf.gz",
+      "SourceId": "HelloApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/HelloApp",
+      "RelativePath": "HelloApp#[.{fingerprint=8hprvg8dgf}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HelloApp.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "udk3an5ate",
+      "Integrity": "DqB5KXj9mvKN2qdnfwkn30LgHutvvhzRGr2uRG+qlFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HelloApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HelloApp.styles.css",
+      "SourceId": "HelloApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/HelloApp",
+      "RelativePath": "HelloApp#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "8hprvg8dgf",
+      "Integrity": "vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HelloApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HelloApp.bundle.scp.css",
+      "SourceId": "HelloApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/HelloApp",
+      "RelativePath": "HelloApp#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "8hprvg8dgf",
+      "Integrity": "vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HelloApp.bundle.scp.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "HelloApp.8hprvg8dgf.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\compressed\\ikjjvj5zsx-8hprvg8dgf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001834862385"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "544"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DqB5KXj9mvKN2qdnfwkn30LgHutvvhzRGr2uRG+qlFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:26:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8hprvg8dgf"
+        },
+        {
+          "Name": "label",
+          "Value": "HelloApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.8hprvg8dgf.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HelloApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1214"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:26:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8hprvg8dgf"
+        },
+        {
+          "Name": "label",
+          "Value": "HelloApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.8hprvg8dgf.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\compressed\\ikjjvj5zsx-8hprvg8dgf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "544"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DqB5KXj9mvKN2qdnfwkn30LgHutvvhzRGr2uRG+qlFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:26:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8hprvg8dgf"
+        },
+        {
+          "Name": "label",
+          "Value": "HelloApp.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DqB5KXj9mvKN2qdnfwkn30LgHutvvhzRGr2uRG+qlFU="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.8hprvg8dgf.styles.css",
+      "AssetFile": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\compressed\\3164czulrl-8hprvg8dgf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001834862385"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "544"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DqB5KXj9mvKN2qdnfwkn30LgHutvvhzRGr2uRG+qlFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:26:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8hprvg8dgf"
+        },
+        {
+          "Name": "label",
+          "Value": "HelloApp.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.8hprvg8dgf.styles.css",
+      "AssetFile": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HelloApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1214"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:26:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8hprvg8dgf"
+        },
+        {
+          "Name": "label",
+          "Value": "HelloApp.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.8hprvg8dgf.styles.css.gz",
+      "AssetFile": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\compressed\\3164czulrl-8hprvg8dgf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "544"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DqB5KXj9mvKN2qdnfwkn30LgHutvvhzRGr2uRG+qlFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:26:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8hprvg8dgf"
+        },
+        {
+          "Name": "label",
+          "Value": "HelloApp.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DqB5KXj9mvKN2qdnfwkn30LgHutvvhzRGr2uRG+qlFU="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\compressed\\ikjjvj5zsx-8hprvg8dgf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001834862385"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "544"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DqB5KXj9mvKN2qdnfwkn30LgHutvvhzRGr2uRG+qlFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:26:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\HelloApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1214"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:26:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\compressed\\ikjjvj5zsx-8hprvg8dgf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "544"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DqB5KXj9mvKN2qdnfwkn30LgHutvvhzRGr2uRG+qlFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:26:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DqB5KXj9mvKN2qdnfwkn30LgHutvvhzRGr2uRG+qlFU="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.styles.css",
+      "AssetFile": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\compressed\\3164czulrl-8hprvg8dgf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001834862385"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "544"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DqB5KXj9mvKN2qdnfwkn30LgHutvvhzRGr2uRG+qlFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:26:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.styles.css",
+      "AssetFile": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\scopedcss\\bundle\\HelloApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1214"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:26:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.styles.css.gz",
+      "AssetFile": "C:\\Users\\Hp\\Documents\\GeorgianIlac\\3rd Sem\\ASP\\HelloApp\\obj\\Debug\\net9.0\\compressed\\3164czulrl-8hprvg8dgf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "544"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DqB5KXj9mvKN2qdnfwkn30LgHutvvhzRGr2uRG+qlFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:26:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DqB5KXj9mvKN2qdnfwkn30LgHutvvhzRGr2uRG+qlFU="
+        }
+      ]
+    }
+  ]
+}

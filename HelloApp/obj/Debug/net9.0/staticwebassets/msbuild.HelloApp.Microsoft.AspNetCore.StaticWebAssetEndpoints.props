@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/HelloApp/HelloApp.8hprvg8dgf.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HelloApp.8hprvg8dgf.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8hprvg8dgf"},{"Name":"integrity","Value":"sha256-vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k="},{"Name":"label","Value":"_content/HelloApp/HelloApp.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1214"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Feb 2025 23:26:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/HelloApp/HelloApp.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HelloApp.8hprvg8dgf.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1214"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Feb 2025 23:26:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

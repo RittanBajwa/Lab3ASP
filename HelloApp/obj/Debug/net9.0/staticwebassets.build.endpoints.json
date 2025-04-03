@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "HelloApp.8hprvg8dgf.styles.css",
+      "AssetFile": "HelloApp.styles.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001834862385"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "544"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DqB5KXj9mvKN2qdnfwkn30LgHutvvhzRGr2uRG+qlFU=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:26:56 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8hprvg8dgf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k="
+        },
+        {
+          "Name": "label",
+          "Value": "HelloApp.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.8hprvg8dgf.styles.css",
+      "AssetFile": "HelloApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1214"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:26:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8hprvg8dgf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k="
+        },
+        {
+          "Name": "label",
+          "Value": "HelloApp.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.8hprvg8dgf.styles.css.gz",
+      "AssetFile": "HelloApp.styles.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "544"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DqB5KXj9mvKN2qdnfwkn30LgHutvvhzRGr2uRG+qlFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:26:56 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8hprvg8dgf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DqB5KXj9mvKN2qdnfwkn30LgHutvvhzRGr2uRG+qlFU="
+        },
+        {
+          "Name": "label",
+          "Value": "HelloApp.styles.css.gz"
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.styles.css",
+      "AssetFile": "HelloApp.styles.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001834862385"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "544"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DqB5KXj9mvKN2qdnfwkn30LgHutvvhzRGr2uRG+qlFU=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:26:56 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.styles.css",
+      "AssetFile": "HelloApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1214"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:26:56 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vDg2CbZ4wIBpfjYFlRQu6totRwiTzVCDq7ebK2oKE7k="
+        }
+      ]
+    },
+    {
+      "Route": "HelloApp.styles.css.gz",
+      "AssetFile": "HelloApp.styles.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "544"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DqB5KXj9mvKN2qdnfwkn30LgHutvvhzRGr2uRG+qlFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Feb 2025 23:26:56 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DqB5KXj9mvKN2qdnfwkn30LgHutvvhzRGr2uRG+qlFU="
+        }
+      ]
+    }
+  ]
+}
